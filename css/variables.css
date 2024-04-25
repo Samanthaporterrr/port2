@@ -24,8 +24,8 @@
     --Grey-extra-light:#e0e0e0;
     --Grey-dark:#272727;
     --White:#ffffff;
-    --Primary-gradient: linear-gradient(180deg, #efe4fc 0%, rgba (239, 228, 252, 0)100%);
-    --Primary-gradient-rev: linear-gradient(180deg, rgba (239, 228, 252, 0)0%, #EFE4FC 100%);
+    --Primary-gradient: linear-gradient(180deg, #efe4fc 0%,rgba(239, 228, 252, 0)100%);
+    --Primary-gradient-rev: linear-gradient(180deg,rgba(239, 228, 252, 0)0%, #EFE4FC 100%);
     --font-size-h1: 6rem;
     --font-size-h2: 3.75rem;
     --font-size-h3: 3rem;
