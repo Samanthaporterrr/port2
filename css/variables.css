@@ -1,0 +1,29 @@
+:root{
+    --Primary:#6100E9;
+    --Prinary-light:#995DF0;
+    --Prinary-extra-light:#EFE4CF;
+    --Primary-dark:#0800D1;
+    --Secondary:#D600E9;
+    --Secondary-dark:#A200DB;
+    --Secondary-light:#E988F1;
+    --Secondary-extra-light:#FAE3FB;
+    --Danger:#EE008D;
+    --Danger-light:#F183BE;
+    --Danger-extra-light:#FBE1EF;
+    --Danger-dark:#B10068;
+    --Warning:#EE5F14;
+    --Warning-light:#FF8E1F;
+    --Warning-extra-light:#FFF2E0;
+    --Warning-dark:#E5410F;
+    --Success:#90f138;
+    --Success-light:#C6F894;
+    --Success-extra-light:#F2Fee5;
+    --Success-dark:#08b226;
+    --Grey:#595959;
+    --Grey-light:#767676;
+    --Grey-extra-light:#e0e0e0;
+    --Grey-dark:#272727;
+    --White:#ffffff;
+    --Primary-gradient: linear-gradient(180deg, #efe4fc 0%, rgba (239, 228, 252, 0)100%);
+    --Primary-gradient-rev: linear-gradient(180deg, rgba (239, 228, 252, 0)0%, #EFE4FC 100%);
+}
